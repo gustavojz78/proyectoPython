@@ -6,5 +6,5 @@ Con  about me, damos una bienvenida.
 En los botones de arriba se pueden añadir comentarios y libros. Tambien se puede editar el perfil del usuario.
 Los libros son del tipo CBV. Los comentarios se añaden una vez que el usuario esta logueado.
 Se pueden buscar los libros, los comentarios y los usuarioa.
-En el nombre del usuario podemos ver el perfil, editarlo y cambiar la contraseña. pip 
+En el nombre del usuario podemos ver el perfil, editarlo y cambiar la contraseña. 
 
